@@ -1,2 +1,2 @@
 # CTFN-NLP
-This project will be building a rebalanced portfolio(50 - 100 holdings) based on the prediction only on 13F data and daily price data in Python. Rebalancing period (prediction period) is preferravblelly quarterly, but also can be monthly, weekly or daily.
+This project will be finding equity price correlation with news headlines. The attached CSV has headlines, associated tickers for each story, and the time stamp of publication. 
